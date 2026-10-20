@@ -1,0 +1,6 @@
+{
+  "name": "El Torito Transportes",
+  "description": "Plataforma federal de transporte interurbano de pasajeros, pasajes con QR, encomiendas y cumplimiento regulatorio CNRT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
